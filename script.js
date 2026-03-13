@@ -2794,9 +2794,9 @@ const creatorCreditPhotoStorageKey = "idCardCreatorCreatorCreditPhotoV1";
 const creatorCreditTextStorageKey = "idCardCreatorCreatorCreditTextV1";
 const currentLogoStorageKey = "idCardCreatorCurrentLogoV1";
 const approvedIdsStorageKey = "idCardCreatorApprovedIdsV1";
-const supabaseProjectUrl = "https://faqzsjpdxeeuflusudjy.supabase.co";
+const supabaseProjectUrl = "https://hxiiibksjlmtyifqyfav.supabase.co";
 const supabaseAnonKey =
-  "sb_publishable_EQjWw8Un9js04SLKhMBdUA_Utq-kiR6";
+  "sb_publishable_NDqYq19HGUuuyyRTfnEhCQ_-tvfTxVb";
 const supabaseClient = window.__idCardSupabaseClient || null;
 const authChannel = typeof BroadcastChannel !== "undefined" ? new BroadcastChannel("idcard-auth") : null;
 async function getAuthSession() {
