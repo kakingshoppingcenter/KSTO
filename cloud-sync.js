@@ -1,7 +1,7 @@
 (function () {
-  const PROJECT_URL = "https://faqzsjpdxeeuflusudjy.supabase.co";
+  const PROJECT_URL = "https://hxiiibksjlmtyifqyfav.supabase.co";
   const ANON_KEY =
-    "sb_publishable_EQjWw8Un9js04SLKhMBdUA_Utq-kiR6";
+    "sb_publishable_NDqYq19HGUuuyyRTfnEhCQ_-tvfTxVb";
   const TABLE_NAME = "app_settings";
   const KEY_PREFIX = "idCardCreator";
   const DELETED_SENTINEL = "__IDCARD_DELETED__";
